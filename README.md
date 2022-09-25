@@ -1,4 +1,4 @@
-#OTUS Spring courses homework? author Slepukhin V.
+#OTUS Spring courses homework author Slepukhin V.
 
 ##Angular SPA
 
