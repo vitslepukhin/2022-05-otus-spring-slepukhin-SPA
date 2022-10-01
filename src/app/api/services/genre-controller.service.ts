@@ -25,7 +25,7 @@ export class GenreControllerService extends BaseService {
   /**
    * Path part for operation suggestGenres
    */
-  static readonly SuggestGenresPath = '/genres/suggest';
+  static readonly SuggestGenresPath = '/genres';
 
   /**
    * This method provides access to the full `HttpResponse`, allowing access to response headers.

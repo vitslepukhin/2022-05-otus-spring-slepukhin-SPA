@@ -25,7 +25,7 @@ export class AuthorControllerService extends BaseService {
   /**
    * Path part for operation suggestAuthors
    */
-  static readonly SuggestAuthorsPath = '/authors/suggest';
+  static readonly SuggestAuthorsPath = '/authors';
 
   /**
    * This method provides access to the full `HttpResponse`, allowing access to response headers.
